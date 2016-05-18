@@ -1,2 +1,3 @@
-# hello-worl
+# hello-world
 new repository for learning
+brbrbrbr
